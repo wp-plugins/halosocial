@@ -3,7 +3,7 @@ Contributors: Halo_Social, Hung Tran, Dmitry Semenov.
 Tags: social networking, community, stream, photos, videos, pages, followers, acl, activity, profiles, messaging, friends, groups, notifications, social, networks, networking
 Requires at least: WordPress 3.0
 Tested up to: WordPress 4.2.2
-Stable tag: 1.0.0
+Stable tag: 1.0.0-RC2
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -17,14 +17,14 @@ Allow your members to create profiles, connect with chat, share photos and video
 
 HaloSocial comes in 3 versions: 
 
-=Starter= 
+= Starter = 
 The Starter version is free but contains a lot of amazing features.
 
 
-=Professional=
+= Professional =
 Professional adds a whole lot more features
 
-=Agency=
+= Agency =
 Agency contains ALL features.
 
 = More Information =
@@ -35,15 +35,15 @@ Visit the <a href="http://www.halo.social/">HaloSocial website</a> for more info
 
 Download HaloSocial.
 In the admin area of your WordPress site go to Plugins then Add New
-Press the “Upload Plugin” button
-Chose the downloaded package and click on the “Install Now”
+Press the ‚ÄúUpload Plugin‚Äù button
+Chose the downloaded package and click on the ‚ÄúInstall Now‚Äù
 Activate plugin and follow the installation wizard.
 
 
 = Once Configured =
 
-* HaloSocial comes with a robust theme-compatibility API that does its best to make every HaloSocial page look and feel right with just-about any WordPress theme. You may need to adjust some styling on your own to make everything look pristine.
-* HaloSocial is tested with themes that are readily available for download from WordPress.org, and hundreds more are available from third-party theme authors.
+HaloSocial comes with a robust theme-compatibility API that does its best to make every HaloSocial page look and feel right with just-about any WordPress theme. You may need to adjust some styling on your own to make everything look pristine.
+HaloSocial is tested with themes that are readily available for download from WordPress.org, and hundreds more are available from third-party theme authors.
 
 
 == Frequently Asked Questions ==
@@ -72,7 +72,7 @@ HaloSocial is the brainchild of Hung Tran. Hung and his team built and maintain 
 
 == Changelog ==
 
-= 1.0.0 =
+= 1.0.0-RC2 =
 * Initial release
 
 == Upgrade Notice ==
