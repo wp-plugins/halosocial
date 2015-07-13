@@ -1,7 +1,7 @@
 === HaloSocial ===
 Contributors: Halo_Social, Hung Tran, Dmitry Semenov.
 Tags: social networking, community, stream, photos, videos, pages, followers, acl, activity, profiles, messaging, friends, groups, notifications, social, networks, networking
-Requires at least: WordPress 3.0
+Requires at least: WordPress 3.5
 Tested up to: WordPress 4.2.2
 Stable tag: 1.0.0-RC2
 License: GPLv3 or later
