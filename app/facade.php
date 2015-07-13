@@ -1,0 +1,34 @@
+<?php
+//class App extends Illuminate\Support\Facades\App {};
+//class Artisan extends Illuminate\Support\Facades\Artisan {};
+//class Auth extends Illuminate\Support\Facades\Auth;
+//class Blade extends Illuminate\Support\Facades\Blade;
+class Cache extends Illuminate\Support\Facades\Cache {};
+//class Config extends Illuminate\Support\Facades\Config {};
+class Cookie extends Illuminate\Support\Facades\Cookie {};
+//class Crypt extends Illuminate\Support\Facades\Crypt {};
+class DB extends Illuminate\Support\Facades\DB {};
+class Event extends Illuminate\Support\Facades\Event {};
+//class Facade extends Illuminate\Support\Facades\Facade {};
+class File extends Illuminate\Support\Facades\File {};
+//class Form extends Illuminate\Support\Facades\Form {};
+//class HTML extends Illuminate\Support\Facades\HTML {};
+//class Hash extends Illuminate\Support\Facades\Hash {};
+//class Input extends Illuminate\Support\Facades\Input {};
+//class Lang extends Illuminate\Support\Facades\Lang {};
+//class Log extends Illuminate\Support\Facades\Log {};
+//class Mail extends Illuminate\Support\Facades\Mail {};
+class Paginator extends Illuminate\Support\Facades\Paginator {};
+//class Password extends Illuminate\Support\Facades\Password {};
+//class Queue extends Illuminate\Support\Facades\Queue {};
+class Redirect extends Illuminate\Support\Facades\Redirect {};
+//class Redis extends Illuminate\Support\Facades\Redis {};
+class Request extends Illuminate\Support\Facades\Request {};
+class Response extends Illuminate\Support\Facades\Response {};
+//class Route extends Illuminate\Support\Facades\Route {};
+class Schema extends Illuminate\Support\Facades\Schema {};
+//class Session extends Illuminate\Support\Facades\Session {};
+class URL extends Illuminate\Support\Facades\URL {};
+class Validator extends Illuminate\Support\Facades\Validator {};
+class View extends Illuminate\Support\Facades\View {};
+?>

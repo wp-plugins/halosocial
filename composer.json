@@ -1,0 +1,38 @@
+{
+    "name": "halosocial/framework",
+    "description": "The HaloSocial Framework.",
+    "keywords": ["framework", "halosocial"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hung Tran",
+            "email": "hungtran0203@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+		"laravel/framework": "4.1.*",
+        "madewithlove/laravel-oauth2": "dev-master",
+		"baum/baum": "~1.0",
+		"intervention/image": "2.*",
+		"lusitanian/oauth": "0.2.*",
+		"michelf/php-markdown": "1.4.*",
+		"barryvdh/laravel-debugbar": "1.*",
+		"jenssegers/agent": "*",
+		"mews/purifier": "1.0.*",
+		"embed/embed": "dev-master"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+ 		"classmap": [
+			"app/controllers",
+			"app/library",
+			"app/models",
+			"app/subscribers",
+			"app/database/seeds",
+			"app/drivers"
+		]
+    },
+    "minimum-stability": "dev"
+}
