@@ -61,14 +61,14 @@ Our community provides free support at <a href="http://www.halo.social/support/"
 HaloSocial is the brainchild of Hung Tran. Hung and his team built and maintain HaloSocial.
 
 == Screenshots ==
-1. Profile.
-2. Notifications
-3. Member Search
-4. Edit Profile
-5. Dashboard
-6. Change Avatar
-7. Privacy
-8. Settings
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
 
 == Changelog ==
 
