@@ -7,25 +7,25 @@ Stable tag: 1.0.0-RC2
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-HaloSocial is a unique social network plugin and contains everything you need to keep your readers on your Wordpress site, engaged and active. 
+HaloSocial is a new powerful Social Network plugin for WordPress. It allows you to create a social network right inside your WordPress site, with features like profiles, stream, sharing, liking, comments, photos, vidoes, and so much more!
 
 == Description ==
 
-Are you wanting to create a sophisticated social network right inside your WordPress site? HaloSocial is a complete solution, that works right out of the box.
+Are you wanting to create a sophisticated social network right inside your WordPress site? HaloSocial is a complete solution, that works right out of the box. It's perfect for brands, artists, schools/universities, non-profit organizations, interest groups and anyone else who wants to benefit from creating a private community on their WordPress site.
 
-Allow your members to create profiles, connect with chat, share photos and videos on the stream, create groups, events, pages, shops and post classified ads!
+Allow your members to create profiles, connect with chat, share photos and videos on the stream, like, comment, share, create groups, events, pages, shops and post classified ads!
 
 HaloSocial comes in 3 versions: 
 
 = Starter = 
-The Starter version is free but contains a lot of amazing features.
-
+Starter version is FREE! It comes with a huge amount of amazing features such as profiles, avaters/cover photos, stream, vidoes, photos, comments, sharing, privacy     Stream, Photo albums, Template overrides, Dynamic SEO, Hover cards and much more
 
 = Professional =
-Professional adds a whole lot more features
+Professional version add another huge set of features: Custom Profiles, Chat, Friends, Follow, Layouts, Events, Groups, Widgets and much more!
+
 
 = Agency =
-Agency contains ALL features.
+Agency version contains ALL the features. In addition to the feautres that Professional version has, it comes with: Blogs, Pages, Classifieds, Meta tags, Real-time notifications, Labels, ACL 
 
 = More Information =
 
@@ -48,17 +48,23 @@ HaloSocial is tested with themes that are readily available for download from Wo
 
 == Frequently Asked Questions ==
 
-= Can I use my existing WordPress theme? =
 
-Yes! HaloSocial works out-of-the-box with nearly every WordPress theme. 
+== Will HaloSocial enable me to create a social network just like Facebook? == 
+ 
+Pretty much. Most of Facebook’s features are also on HaloSocial, including news streams, profiles, events, groups and pages. But HaloSocial also has a number of very useful features that Facebook is missing, such as stores and classified ads. So your platform will be like Facebook… but better.
+ 
+== What are the system requirements for HaloSocial? ==
+ 
+Please visit <a href="http://www.halo.social/requirements">this article</a> for a full description of HaloSocial’s system requirements.
+ 
+== Will HaloSocial work with my theme? ==
+ 
+HaloSocial was tested with over a hundred of the most popular WordPress themes. You can find a full list of compatible themes <a href="http://www.halo.social/supported-themes">here</a>.. If you do find a compatibility issue with your theme, please post a support request on our forum. We’ll try to sort it out for you.
+ 
+== How many users can HaloSocial support? ==
 
-= Where can I get support? =
+HaloSocial does not impose any limit on the number of users that can register on your site. In theory, you could register as many users as Wordpress can store into the database. So that’s a lot. In practice, the limits will depend on the hosting infrastructure and the servers the site is hosted on.
 
-Our community provides free support at <a href="http://www.halo.social/support/">http://www.halo.social/support/</a>.
-
-= Who builds HaloSocial? =
-
-HaloSocial is the brainchild of Hung Tran. Hung and his team built and maintain HaloSocial.
 
 == Screenshots ==
 1. 
