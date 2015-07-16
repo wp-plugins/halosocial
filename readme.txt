@@ -64,7 +64,7 @@ HaloSocial was tested with over a hundred of the most popular WordPress themes. 
  
 == How many users can HaloSocial support? ==
 
-HaloSocial does not impose any limit on the number of users that can register on your site. In theory, you could register as many users as Wordpress can store into the database. So that’s a lot. In practice, the limits will depend on the hosting infrastructure and the servers the site is hosted on!.
+HaloSocial does not impose any limit on the number of users that can register on your site. In theory, you could register as many users as Wordpress can store into the database. So that’s a lot. In practice, the limits will depend on the hosting infrastructure and the servers the site is hosted on!
 
 
 == Screenshots ==
