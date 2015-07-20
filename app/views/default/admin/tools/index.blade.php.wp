@@ -1,0 +1,35 @@
+{{-- Web site Title --}}
+@section('title')
+	{{{ $title }}} :: @parent
+@stop
+
+{{-- Toolbar --}}
+@section('toolbar')
+	<div class="row">
+		
+	</div>
+@stop
+@if(!isHALOInstalled())
+<div class="row">
+	<div class="page-header">
+		<h3>
+			{{{ $title }}}
+		</h3>
+	</div>
+</div>
+	
+@endif
+{{-- Content --}}
+@section('content')
+<div class="row">
+	<div class="page-header">
+		<h3>
+			{{{ $title }}}
+		</h3>
+	</div>
+</div>
+@stop
+
+{{-- Scripts --}}
+@section('scripts')
+@stop
