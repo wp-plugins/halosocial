@@ -1,9 +1,9 @@
 === HaloSocial ===
 Contributors: Halo_Social, Hung Tran, Dmitry Semenov.
 Tags: social networking, community, stream, photos, videos, pages, followers, acl, activity, profiles, messaging, friends, groups, notifications, social, networks, networking, facebook, twitter, chat, like, likes, comments, alerts, privacy, cover photos, avatars, buddypress, social media, sharing, share, activity, network
-Requires at least: WordPress 3.5
+Requires at least: 3.5
 Tested up to: 4.2.2
-Stable tag: 1.0.0-RC2
+Stable tag: 1.0.0-RC3
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
