@@ -35,8 +35,8 @@ Visit the [Halo.Social](http://halo.social/ "Create a community with WordPress")
 
 Download HaloSocial.
 In the admin area of your WordPress site go to Plugins then Add New
-Press the “Upload Plugin” button
-Chose the downloaded package and click on the “Install Now”
+Press the ‘Upload Plugin’ button
+Chose the downloaded package and click on the ‘Install Now’
 Activate plugin and follow the installation wizard.
 
 
