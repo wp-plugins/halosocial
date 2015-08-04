@@ -3,7 +3,7 @@ Contributors: Halo_Social, Hung Tran, Dmitry Semenov.
 Tags: social networking, community, stream, photos, videos, pages, followers, acl, activity, profiles, messaging, friends, groups, notifications, social, networks, networking, facebook, twitter, chat, like, likes, comments, alerts, privacy, cover photos, avatars, buddypress, social media, sharing, share, activity, network
 Requires at least: 3.5
 Tested up to: 4.2.3
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -35,8 +35,8 @@ Visit the [Halo.Social](http://halo.social/ "Create a community with WordPress")
 
 Download HaloSocial.
 In the admin area of your WordPress site go to Plugins then Add New
-Press the â€˜Upload Pluginâ€™ button
-Chose the downloaded package and click on the â€˜Install Nowâ€™
+Press the “Upload Plugin” button
+Chose the downloaded package and click on the “Install Now”
 Activate plugin and follow the installation wizard.
 
 
@@ -51,20 +51,20 @@ HaloSocial is tested with themes that are readily available for download from Wo
 
 == Will HaloSocial enable me to create a social network just like Facebook? == 
  
-Pretty much. Most of Facebookâ€™s features are also on HaloSocial, including news streams, profiles, events, groups and pages. But HaloSocial also has a number of very useful features that Facebook is missing, such as stores and classified ads. So your platform will be like Facebookâ€¦ but better.
+Pretty much. Most of Facebook’s features are also on HaloSocial, including news streams, profiles, events, groups and pages. But HaloSocial also has a number of very useful features that Facebook is missing, such as stores and classified ads. So your platform will be like Facebook… but better.
  
 == What are the system requirements for HaloSocial? ==
  
-Please visit [this article](http://www.halo.social/requirements "HaloSocia Requirements") for a full description of HaloSocialâ€™s system requirements.
+Please visit [this article](http://www.halo.social/requirements "HaloSocia Requirements") for a full description of HaloSocial’s system requirements.
  
 == Will HaloSocial work with my theme? ==
  
 HaloSocial was tested with over a hundred of the most popular WordPress themes. You can find a full list of 
-[HaloSocial compatible themes here](http://www.halo.social/supported-themes "HaloSocial compatible themes"). If you do find a compatibility issue with your theme, please post a support request on our forum. Weâ€™ll try to sort it out for you.
+[HaloSocial compatible themes here](http://www.halo.social/supported-themes "HaloSocial compatible themes"). If you do find a compatibility issue with your theme, please post a support request on our forum. We’ll try to sort it out for you.
  
 == How many users can HaloSocial support? ==
 
-HaloSocial does not impose any limit on the number of users that can register on your site. In theory, you could register as many users as Wordpress can store into the database. So thatâ€™s a lot. In practice, the limits will depend on the hosting infrastructure and the servers the site is hosted on
+HaloSocial does not impose any limit on the number of users that can register on your site. In theory, you could register as many users as Wordpress can store into the database. So that’s a lot. In practice, the limits will depend on the hosting infrastructure and the servers the site is hosted on.
 
 
 == Screenshots ==
@@ -79,9 +79,33 @@ HaloSocial does not impose any limit on the number of users that can register on
 
 == Changelog ==
 
+= 1.0.1 =
+* Remove duplicate module head output.
+* Fix database connection string.
+* Optimise CSS and improve page load performance.
+* Improve URL fetching.
+* Wrong assets path when theme override is in use.
+
+= 1.0.0 =
+* Delete all reports if reported object is deleted.
+* Visual improvements for buttons and alerts.
+* Improve fetching links that start with www.
+* Improve stream comments visual appeal.
+* Can't upload photo to change avatar or cover if upload folders are manually deleted.
+* Fix the countdown for expired time on restriction notifications.
+* Improve page load performance.
+* Notifications screen not displayed correctly on the small screens.
+* Allow override for frontpage login box image.
+
+= 1.0.0-RC3 =
+* WordPress notice must be dismissible. Replace it with the HaloSocial notice.
+* New configuration to force user to change avatar and required fields.
+* Restrictions improvements.
+* Style the widget area in HaloSocial WordPress theme.
+* Language file updates.
+
 = 1.0.0-RC2 =
 * Initial release
 
 == Upgrade Notice ==
 * Initial release
-
