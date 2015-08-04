@@ -1,0 +1,1 @@
+var halo_jax_targetUrl = "http://mydev.halo.social/wptest/wp-admin/admin-ajax.php?action=halo_ajax";
