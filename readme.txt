@@ -3,7 +3,7 @@ Contributors: Halo_Social, Hung Tran, Dmitry Semenov.
 Tags: social networking, community, stream, photos, videos, pages, followers, acl, activity, profiles, messaging, friends, groups, notifications, social, networks, networking, facebook, twitter, chat, like, likes, comments, alerts, privacy, cover photos, avatars, buddypress, social media, sharing, share, activity, network
 Requires at least: 3.5
 Tested up to: 4.2.4
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -78,6 +78,20 @@ HaloSocial does not impose any limit on the number of users that can register on
 8. 
 
 == Changelog ==
+
+= 1.0.2 =
+* Add the Dashboard section.
+* Major CSS Improvements.
+* New loading gif animation.
+* Fix for some registration issues on GoDaddy hosting.
+* Registration throws the error at the end.
+* Not possible to comment the picture using mobile phone.
+* Remove user avatar from toolbar.
+* Improve playing video shared from youtu.be.
+* Show post button on stream only when mouse focus is on status input.
+* Add prefix name space to prevent installation conflict.
+* Text from stream items is not shown on mobile.
+* Improve fetching url on the stream.
 
 = 1.0.1 =
 * Remove duplicate module head output.
