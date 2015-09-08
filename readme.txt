@@ -29,7 +29,7 @@ Agency version contains ALL the features. In addition to the feautres that Profe
 
 = More Information =
 
-Visit the [Halo.Social](http://halo.social/ "Create a community with WordPress")for more information, documentations and support.
+Visit the [Halo.Social](http://halo.social/ "Create a community with WordPress") for more information, documentations and support.
 
 == Installation ==
 
