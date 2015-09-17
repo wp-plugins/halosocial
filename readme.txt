@@ -2,8 +2,8 @@
 Contributors: Halo_Social, Hung Tran, Dmitry Semenov.
 Tags: social networking, community, stream, photos, videos, pages, followers, acl, activity, profiles, messaging, friends, groups, notifications, social, networks, networking, facebook, twitter, chat, like, likes, comments, alerts, privacy, cover photos, avatars, buddypress, social media, sharing, share, activity, network
 Requires at least: 3.5
-Tested up to: 4.2.4
-Stable tag: 1.0.3
+Tested up to: 4.3.1
+Stable tag: 1.0.4
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -78,6 +78,23 @@ HaloSocial does not impose any limit on the number of users that can register on
 8. 
 
 == Changelog ==
+
+= 1.0.4 =
+* CSS Optimising and Facelifting.
+* Follow WordPress recommendations to handle language files.
+* Update Facebook API to latest version.
+* Define Ajax URL in frontend.
+* Comment on videos in popup view.
+* Fixes for user confirmation after registration.
+* Redirect all the links to wordpress registration to HaloSocial registration.
+* Display online status correctly.
+* Login redirect did not work from login popup.
+* Remove the tooltip from sliders in avatar and cover change.
+* Make user related menus highlight when active.
+* Add validation rules to user settings.
+* Update notice must be dismissible.
+* Remove Google Analytics function. Use default WordPress.
+* Remove HaloSocial favicons override. Use default WordPress.
 
 = 1.0.3 =
 * Disable incomplete theme designer feature.
