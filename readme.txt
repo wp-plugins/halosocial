@@ -3,11 +3,11 @@ Contributors: Halo_Social, Hung Tran, Dmitry Semenov.
 Tags: social networking, community, stream, photos, videos, pages, followers, acl, activity, profiles, messaging, friends, groups, notifications, social, networks, networking, facebook, twitter, chat, like, likes, comments, alerts, privacy, cover photos, avatars, buddypress, social media, sharing, share, activity, network
 Requires at least: 3.5
 Tested up to: 4.3.1
-Stable tag: 1.0.4
+Stable tag: 1.0.5
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-HaloSocial is a new powerful Social Network plugin for WordPress. It allows you to create a social network right inside your WordPress site, with features like profiles, stream, sharing, liking, comments, photos, vidoes, and so much more!
+HaloSocial is a new powerful Social Network plugin for WordPress. It allows you to create a social network right inside your WordPress site.
 
 == Description ==
 
@@ -29,14 +29,14 @@ Agency version contains ALL the features. In addition to the feautres that Profe
 
 = More Information =
 
-Visit the [Halo.Social](http://halo.social/ "Create a community with WordPress")for more information, documentations and support.
+Visit the [Halo.Social](http://halo.social/ "Create a community with WordPress") for more information, documentations and support.
 
 == Installation ==
 
 Download HaloSocial.
 In the admin area of your WordPress site go to Plugins then Add New
-Press the “Upload Plugin” button
-Chose the downloaded package and click on the “Install Now”
+Press the "Upload Plugin" button
+Chose the downloaded package and click on the "Install Now"
 Activate plugin and follow the installation wizard.
 
 
@@ -48,23 +48,20 @@ HaloSocial is tested with themes that are readily available for download from Wo
 
 == Frequently Asked Questions ==
 
-
-== Will HaloSocial enable me to create a social network just like Facebook? == 
+= Will HaloSocial enable me to create a social network just like Facebook? =
+Pretty much. Most of Facebook's features are also on HaloSocial, including news streams, profiles, events, groups and pages. But HaloSocial also has a number of very useful features that Facebook is missing, such as stores and classified ads. So your platform will be like Facebook... but better.
  
-Pretty much. Most of Facebook’s features are also on HaloSocial, including news streams, profiles, events, groups and pages. But HaloSocial also has a number of very useful features that Facebook is missing, such as stores and classified ads. So your platform will be like Facebook… but better.
+= What are the system requirements for HaloSocial? =
  
-== What are the system requirements for HaloSocial? ==
+Please visit [this article](http://docs.halo.social/System_Requirements "HaloSocia Requirements") for a full description of HaloSocial's system requirements.
  
-Please visit [this article](http://www.halo.social/requirements "HaloSocia Requirements") for a full description of HaloSocial’s system requirements.
- 
-== Will HaloSocial work with my theme? ==
- 
+= Will HaloSocial work with my theme? =
 HaloSocial was tested with over a hundred of the most popular WordPress themes. You can find a full list of 
-[HaloSocial compatible themes here](http://www.halo.social/supported-themes "HaloSocial compatible themes"). If you do find a compatibility issue with your theme, please post a support request on our forum. We’ll try to sort it out for you.
+[HaloSocial compatible themes here](http://docs.halo.social/Supported_WordPress_Themes "HaloSocial compatible themes"). If you do find a compatibility issue with your theme, please post a support request on our forum. We'll try to sort it out for you.
  
-== How many users can HaloSocial support? ==
+= How many users can HaloSocial support? =
 
-HaloSocial does not impose any limit on the number of users that can register on your site. In theory, you could register as many users as Wordpress can store into the database. So that’s a lot. In practice, the limits will depend on the hosting infrastructure and the servers the site is hosted on.
+HaloSocial does not impose any limit on the number of users that can register on your site. In theory, you could register as many users as Wordpress can store into the database. So that's a lot. In practice, the limits will depend on the hosting infrastructure and the servers the site is hosted on.
 
 
 == Screenshots ==
@@ -78,6 +75,21 @@ HaloSocial does not impose any limit on the number of users that can register on
 8. 
 
 == Changelog ==
+
+= 1.0.5 =
+* Support for oEmbed cards.
+* New login box.
+* Google NoCAPTCHA integration for registration flow.
+* Add loading indicator while url is fetching.
+* Order photos in album by newest.
+* Remove display name from toolbar and use only "Profile" title.
+* Toolbar and sharebox inherit the link color on some themes.
+* Redirect registrations to HaloSocial when enabled.
+* Remove haloSocial user when WordPress user is deleted.
+* Timezone problems on some servers.
+* Buttons on cover are covering the name.
+* Fix the inconsistency between video comments and stream comments.
+* Scroll the comments to the latest after video is loaded.
 
 = 1.0.4 =
 * CSS Optimising and Facelifting.
