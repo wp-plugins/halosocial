@@ -3,7 +3,7 @@ Contributors: Halo_Social, Hung Tran, Dmitry Semenov.
 Tags: social networking, community, stream, photos, videos, pages, followers, acl, activity, profiles, messaging, friends, groups, notifications, social, networks, networking, facebook, twitter, chat, like, likes, comments, alerts, privacy, cover photos, avatars, buddypress, social media, sharing, share, activity, network
 Requires at least: 3.5
 Tested up to: 4.3.1
-Stable tag: 1.0.5
+Stable tag: 1.0.6
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -75,6 +75,15 @@ HaloSocial does not impose any limit on the number of users that can register on
 8. 
 
 == Changelog ==
+
+= 1.0.6 =
+* Fix the Admin role that is not checked properly
+* Incorrect warning messages when server does not meet minimum system requirements.
+* Support additional WordPress roles.
+* Messages are not ajaxified.
+* API improvemnets for third-party integrations.
+* Disable recaptcha if keys are not provided.
+* Add push server files.
 
 = 1.0.5 =
 * Support for oEmbed cards.
