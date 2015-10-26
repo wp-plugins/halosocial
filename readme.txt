@@ -3,7 +3,7 @@ Contributors: Halo_Social, Hung Tran, Dmitry Semenov.
 Tags: social networking, community, stream, photos, videos, pages, followers, acl, activity, profiles, messaging, friends, groups, notifications, social, networks, networking, facebook, twitter, chat, like, likes, comments, alerts, privacy, cover photos, avatars, buddypress, social media, sharing, share, activity, network
 Requires at least: 3.5
 Tested up to: 4.3.1
-Stable tag: 1.0.6
+Stable tag: 1.0.7
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -76,8 +76,16 @@ HaloSocial does not impose any limit on the number of users that can register on
 
 == Changelog ==
 
+= 1.0.7 =
+* Enable filters management.
+* Show loading icon on submit registration form.
+* Show success message on new registration.
+* Use WordPress site title and admin email for sent email subject and sender.
+* Message page throws error when there are messages from deleted user.
+* Add configuration meta for event, group, page, post and filters.
+
 = 1.0.6 =
-* Fix the Admin role that is not checked properly
+* Fix the Admin role that is not checked properly.
 * Incorrect warning messages when server does not meet minimum system requirements.
 * Support additional WordPress roles.
 * Messages are not ajaxified.
